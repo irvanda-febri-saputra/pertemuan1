@@ -1,2 +1,2 @@
 Materi HTML Dasar 
-Belajar Pragraf.html
+<a href="belajaralink" class="btn-get-started scrollto">belajar alink</a>
