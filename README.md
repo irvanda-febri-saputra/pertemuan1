@@ -1,2 +1,2 @@
 Materi HTML Dasar 
-<a href="belajaralink" class="btn-get-started scrollto">belajar alink</a>
+<a href="daftar.html" class="btn-get-started scrollto">Belajar pragraf 1</a>
